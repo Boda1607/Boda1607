@@ -2,7 +2,8 @@
 
 ###
 
-<h3 align="left">An AI engineer experienced in data analysis, deep learning, and machine learning. Aiming to produce innovative AI solutions and generate significant insights for furthering company goals by influencing technical expertise and problem-solving skills.</h3>
+<h3 align="left">
+An IT Specialist experienced in system administration, data analysis, machine learning, deep learning, and IT support. Aiming to deliver effective solutions using problem-solving skills, provide technical support, solve system issues, and achieve company goals.</h3>
 
 ###
 
