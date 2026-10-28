@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">
-An IT Specialist experienced in system administration, data analysis, machine learning, deep learning, and IT support. Aiming to deliver effective solutions using problem-solving skills, provide technical support, solve system issues, and achieve company goals.</h3>
+An IT Specialist with experience in system administration, technical support, data analysis, and AI technologies. Dedicated to delivering efficient technical solutions, troubleshooting system issues, optimizing system performance, and contributing to organizational goals.</h3>
 
 ###
 
