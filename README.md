@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">
-An IT Specialist blending core technical infrastructure expertise spanning System Administration, Networking, and Tech Support with forward-thinking capabilities in Data Analysis and Artificial Intelligence. Adept at troubleshooting, boosting system efficiency, and leveraging cutting-edge tech to empower business growth and operational excellence.</h3>
+An IT Specialist blending core technical infrastructure expertise-spanning System Administration, Networking, and Tech Support-with forward-thinking capabilities in Data Analysis and Artificial Intelligence. Adept at troubleshooting, boosting system efficiency, and leveraging cutting-edge tech to empower business growth and operational excellence.</h3>
 
 ###
 
